@@ -1,0 +1,64 @@
+F:\CPET 222\Lab6 - Packet\Packet\Packet\bin\Debug\Packet.exe.config
+F:\CPET 222\Lab6 - Packet\Packet\Packet\bin\Debug\Packet.exe
+F:\CPET 222\Lab6 - Packet\Packet\Packet\bin\Debug\Packet.pdb
+F:\CPET 222\Lab6 - Packet\Packet\Packet\obj\Debug\Packet.csprojResolveAssemblyReference.cache
+F:\CPET 222\Lab6 - Packet\Packet\Packet\obj\Debug\Packet.Properties.Resources.resources
+F:\CPET 222\Lab6 - Packet\Packet\Packet\obj\Debug\Packet.csproj.GenerateResource.Cache
+F:\CPET 222\Lab6 - Packet\Packet\Packet\obj\Debug\Packet.exe
+F:\CPET 222\Lab6 - Packet\Packet\Packet\obj\Debug\Packet.pdb
+F:\CPET 222\Lab6 - Packet\Packet\Packet\obj\Debug\Packet.Form1.resources
+F:\CPET 222\Lab6 - Packet\Packet\Packet\obj\Debug\Packet.SelectPort.resources
+F:\CPET 222\Lab6 - Packet\Packet\Packet\obj\Debug\Packet.PortConfig.resources
+F:\CPET 222\Lab6 - Packet\Packet\Packet\obj\Debug\Packet.Form2.resources
+F:\CPET 222\Lab6 - Packet\Packet\Packet\obj\Debug\Packet.ShowConfig.resources
+C:\Users\NHTI\Desktop\Packet\Packet\bin\Debug\Packet.exe.config
+C:\Users\NHTI\Desktop\Packet\Packet\bin\Debug\Packet.exe
+C:\Users\NHTI\Desktop\Packet\Packet\bin\Debug\Packet.pdb
+C:\Users\NHTI\Desktop\Packet\Packet\obj\Debug\Packet.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\Packet\Packet\obj\Debug\Packet.Form1.resources
+C:\Users\NHTI\Desktop\Packet\Packet\obj\Debug\Packet.Form2.resources
+C:\Users\NHTI\Desktop\Packet\Packet\obj\Debug\Packet.PortConfig.resources
+C:\Users\NHTI\Desktop\Packet\Packet\obj\Debug\Packet.Properties.Resources.resources
+C:\Users\NHTI\Desktop\Packet\Packet\obj\Debug\Packet.SelectPort.resources
+C:\Users\NHTI\Desktop\Packet\Packet\obj\Debug\Packet.ShowConfig.resources
+C:\Users\NHTI\Desktop\Packet\Packet\obj\Debug\Packet.csproj.GenerateResource.Cache
+C:\Users\NHTI\Desktop\Packet\Packet\obj\Debug\Packet.exe
+C:\Users\NHTI\Desktop\Packet\Packet\obj\Debug\Packet.pdb
+F:\Packet\Packet\bin\Debug\Packet.exe.config
+F:\Packet\Packet\bin\Debug\Packet.exe
+F:\Packet\Packet\bin\Debug\Packet.pdb
+F:\Packet\Packet\obj\Debug\Packet.csprojResolveAssemblyReference.cache
+F:\Packet\Packet\obj\Debug\Packet.Form1.resources
+F:\Packet\Packet\obj\Debug\Packet.Form2.resources
+F:\Packet\Packet\obj\Debug\Packet.PortConfig.resources
+F:\Packet\Packet\obj\Debug\Packet.Properties.Resources.resources
+F:\Packet\Packet\obj\Debug\Packet.SelectPort.resources
+F:\Packet\Packet\obj\Debug\Packet.ShowConfig.resources
+F:\Packet\Packet\obj\Debug\Packet.csproj.GenerateResource.Cache
+F:\Packet\Packet\obj\Debug\Packet.exe
+F:\Packet\Packet\obj\Debug\Packet.pdb
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\bin\Debug\Packet.exe.config
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\obj\Debug\Packet.exe
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\obj\Debug\Packet.pdb
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\obj\Debug\Packet.csprojResolveAssemblyReference.cache
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\obj\Debug\Packet.Form1.resources
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\obj\Debug\Packet.Form2.resources
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\obj\Debug\Packet.PortConfig.resources
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\obj\Debug\Packet.Properties.Resources.resources
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\obj\Debug\Packet.ShowConfig.resources
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\obj\Debug\Packet.csproj.GenerateResource.Cache
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\bin\Debug\Packet.exe
+C:\Users\Bradley\Downloads\Packet (1)\Packet\Packet\bin\Debug\Packet.pdb
+F:\CPET 222\IP Packet\Packet\Packet\bin\Debug\Packet.exe.config
+F:\CPET 222\IP Packet\Packet\Packet\bin\Debug\Packet.exe
+F:\CPET 222\IP Packet\Packet\Packet\bin\Debug\Packet.pdb
+F:\CPET 222\IP Packet\Packet\Packet\obj\Debug\Packet.csprojAssemblyReference.cache
+F:\CPET 222\IP Packet\Packet\Packet\obj\Debug\Packet.Form1.resources
+F:\CPET 222\IP Packet\Packet\Packet\obj\Debug\Packet.Form2.resources
+F:\CPET 222\IP Packet\Packet\Packet\obj\Debug\Packet.PortConfig.resources
+F:\CPET 222\IP Packet\Packet\Packet\obj\Debug\Packet.Properties.Resources.resources
+F:\CPET 222\IP Packet\Packet\Packet\obj\Debug\Packet.ShowConfig.resources
+F:\CPET 222\IP Packet\Packet\Packet\obj\Debug\Packet.csproj.GenerateResource.cache
+F:\CPET 222\IP Packet\Packet\Packet\obj\Debug\Packet.csproj.CoreCompileInputs.cache
+F:\CPET 222\IP Packet\Packet\Packet\obj\Debug\Packet.exe
+F:\CPET 222\IP Packet\Packet\Packet\obj\Debug\Packet.pdb
